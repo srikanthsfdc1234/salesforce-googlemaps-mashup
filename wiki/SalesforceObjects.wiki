@@ -1,0 +1,12 @@
+#labels Phase-Requirements,Phase-Implementation,Phase-Design
+The following Salesforce standard and custom objects are used in this project.
+
+= Introduction =
+
+Contacts: Mapped as Patients.
+Accounts: Mapped as Hospitals.
+
+
+= Details =
+
+The contact object is fetched as Patients and the account Object is mapped as Hospital.
